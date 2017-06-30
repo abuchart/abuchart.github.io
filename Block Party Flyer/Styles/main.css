@@ -1,0 +1,54 @@
+* {
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	background-color: #A2AAAA;
+	margin: 15px;
+	padding: 10px;
+}
+
+p {
+	margin: 0px;
+	padding: 0px;
+}
+
+section {
+	margin: 0;
+	padding: 0;
+}
+
+article {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	font-family:'Bahiana', cursive;
+	font-weight: bold;
+	font-size: 60px;
+	border-bottom: 1px solid black;
+	margin: 0 300px;
+	padding: 20px 0;
+}
+
+.sassy-font {
+	font-family:'Bahiana', cursive;
+	font-weight: bold;
+	font-size: 30px;
+	padding: 0;
+	margin: 0;
+}
+
+.reduced-padding {
+	padding: 10px 0;
+	margin: 0 350px;
+	border-bottom: 1px dashed black;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+footer {
+	font-family: 'Raleway', sans-serif;
+}
